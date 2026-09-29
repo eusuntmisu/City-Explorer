@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Explorer</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="site-header">
+        <h1>City Explorer</h1>
+        <nav class="menu">
+            <a href="#destinatii">Destinatii</a>
+            <a href="#planifica">Planifica</a>
+            <a href="#recomandari">Recomandari</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="destinatii">
+            <h2>Destinatii</h2>
+            <div class="cards">
+                <article class="card">
+                    <h3>Paris</h3><p>Franta</p><p>Orasul iubirii si al luminilor.</p><p>4 zile</p>
+                </article>
+                <article class="card featured">
+                    <h3>Roma</h3><p>Italia</p><p>Istorie antica si arhitectura.</p><p>5 zile</p>
+                </article>
+                <article class="card">
+                    <h3>Londra</h3><p>Marea Britanie</p><p>Capitala cosmopolita.</p><p>4 zile</p>
+                </article>
+                <article class="card">
+                    <h3>Berlin</h3><p>Germania</p><p>Arta, cultura si viata nocturna.</p><p>3 zile</p>
+                </article>
+                <article class="card">
+                    <h3>Madrid</h3><p>Spania</p><p>Vibrant, insorit si plin de viata.</p><p>5 zile</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="planifica">
+            <h2>Planifica</h2>
+            <form>
+                <label for="name">Nume</label>
+                <input id="name" name="name" type="text">
+                
+                <label for="destination">Destinatie</label>
+                <select id="destination" name="destination">
+                    <option value="">Alege...</option>
+                    <option value="Lisabona">Lisabona</option>
+                    <option value="Roma">Roma</option>
+                </select>
+                
+                <label for="days">Numar de zile</label>
+                <input id="days" name="days" type="number">
+                
+                <button type="submit">Planifica excursia</button>
+            </form>
+        </section>
+
+        <section id="recomandari">
+            <h2>Recomandari</h2>
+            <ul>
+                <li>Cumpara biletele pentru muzee in avans.</li>
+                <li>Foloseste transportul public pentru a economisi timp.</li>
+                <li>Incearca mereu preparatele culinare locale.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="site-footer">Manea Mihai Catalin, 2026</footer>
+</body>
+</html>
