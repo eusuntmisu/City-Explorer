@@ -1,16 +1,17 @@
+// Produce db-mare.json, cu doua mii de destinatii.
 import { writeFileSync } from 'node:fs'
 
 const tari = {
   Portugalia: ['Lisabona', 'Porto', 'Faro', 'Braga', 'Coimbra'],
-  România: ['Cluj-Napoca', 'Braşov', 'Sibiu', 'Iaşi', 'Timişoara'],
+  România: ['Cluj-Napoca', 'Brașov', 'Sibiu', 'Iași', 'Timișoara'],
   Japonia: ['Kyoto', 'Tokyo', 'Osaka', 'Nara', 'Kobe'],
   Spania: ['Madrid', 'Barcelona', 'Sevilla', 'Valencia', 'Bilbao'],
-  Italia: ['Roma', 'Milano', 'Florenta', 'Napoli', 'Venetia'],
+  Italia: ['Roma', 'Milano', 'Florența', 'Napoli', 'Veneția'],
 }
 
 const destinatii = []
 const perechi = Object.entries(tari).flatMap(
-  ([tara, orase]) => orase.map((oras) => ({ oras, tara }))
+  ([tara, orase]) => orase.map((oras) => ({ oras, tara })),
 )
 
 for (let i = 1; i <= 2000; i++) {

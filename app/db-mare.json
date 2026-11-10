@@ -5,14 +5,14 @@
       "oras": "Porto 1",
       "tara": "Portugalia",
       "zile": 2,
-      "vizitat": true
+      "vizitat": false
     },
     {
       "id": "2",
       "oras": "Faro 2",
       "tara": "Portugalia",
       "zile": 3,
-      "vizitat": true
+      "vizitat": false
     },
     {
       "id": "3",
@@ -26,18 +26,18 @@
       "oras": "Coimbra 4",
       "tara": "Portugalia",
       "zile": 5,
-      "vizitat": true
+      "vizitat": false
     },
     {
       "id": "5",
       "oras": "Cluj-Napoca 5",
       "tara": "România",
       "zile": 6,
-      "vizitat": true
+      "vizitat": false
     },
     {
       "id": "6",
-      "oras": "Braşov 6",
+      "oras": "Brașov 6",
       "tara": "România",
       "zile": 7,
       "vizitat": true
@@ -51,14 +51,14 @@
     },
     {
       "id": "8",
-      "oras": "Iaşi 8",
+      "oras": "Iași 8",
       "tara": "România",
       "zile": 9,
       "vizitat": false
     },
     {
       "id": "9",
-      "oras": "Timişoara 9",
+      "oras": "Timișoara 9",
       "tara": "România",
       "zile": 10,
       "vizitat": true
@@ -149,7 +149,7 @@
     },
     {
       "id": "22",
-      "oras": "Florenta 22",
+      "oras": "Florența 22",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -163,7 +163,7 @@
     },
     {
       "id": "24",
-      "oras": "Venetia 24",
+      "oras": "Veneția 24",
       "tara": "Italia",
       "zile": 11,
       "vizitat": true
@@ -212,7 +212,7 @@
     },
     {
       "id": "31",
-      "oras": "Braşov 31",
+      "oras": "Brașov 31",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -226,14 +226,14 @@
     },
     {
       "id": "33",
-      "oras": "Iaşi 33",
+      "oras": "Iași 33",
       "tara": "România",
       "zile": 6,
       "vizitat": true
     },
     {
       "id": "34",
-      "oras": "Timişoara 34",
+      "oras": "Timișoara 34",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -324,7 +324,7 @@
     },
     {
       "id": "47",
-      "oras": "Florenta 47",
+      "oras": "Florența 47",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -338,7 +338,7 @@
     },
     {
       "id": "49",
-      "oras": "Venetia 49",
+      "oras": "Veneția 49",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -387,7 +387,7 @@
     },
     {
       "id": "56",
-      "oras": "Braşov 56",
+      "oras": "Brașov 56",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -401,14 +401,14 @@
     },
     {
       "id": "58",
-      "oras": "Iaşi 58",
+      "oras": "Iași 58",
       "tara": "România",
       "zile": 3,
       "vizitat": false
     },
     {
       "id": "59",
-      "oras": "Timişoara 59",
+      "oras": "Timișoara 59",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -499,7 +499,7 @@
     },
     {
       "id": "72",
-      "oras": "Florenta 72",
+      "oras": "Florența 72",
       "tara": "Italia",
       "zile": 3,
       "vizitat": true
@@ -513,7 +513,7 @@
     },
     {
       "id": "74",
-      "oras": "Venetia 74",
+      "oras": "Veneția 74",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -562,7 +562,7 @@
     },
     {
       "id": "81",
-      "oras": "Braşov 81",
+      "oras": "Brașov 81",
       "tara": "România",
       "zile": 12,
       "vizitat": true
@@ -576,14 +576,14 @@
     },
     {
       "id": "83",
-      "oras": "Iaşi 83",
+      "oras": "Iași 83",
       "tara": "România",
       "zile": 14,
       "vizitat": false
     },
     {
       "id": "84",
-      "oras": "Timişoara 84",
+      "oras": "Timișoara 84",
       "tara": "România",
       "zile": 1,
       "vizitat": true
@@ -674,7 +674,7 @@
     },
     {
       "id": "97",
-      "oras": "Florenta 97",
+      "oras": "Florența 97",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -688,7 +688,7 @@
     },
     {
       "id": "99",
-      "oras": "Venetia 99",
+      "oras": "Veneția 99",
       "tara": "Italia",
       "zile": 2,
       "vizitat": true
@@ -737,7 +737,7 @@
     },
     {
       "id": "106",
-      "oras": "Braşov 106",
+      "oras": "Brașov 106",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -751,14 +751,14 @@
     },
     {
       "id": "108",
-      "oras": "Iaşi 108",
+      "oras": "Iași 108",
       "tara": "România",
       "zile": 11,
       "vizitat": true
     },
     {
       "id": "109",
-      "oras": "Timişoara 109",
+      "oras": "Timișoara 109",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -849,7 +849,7 @@
     },
     {
       "id": "122",
-      "oras": "Florenta 122",
+      "oras": "Florența 122",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -863,7 +863,7 @@
     },
     {
       "id": "124",
-      "oras": "Venetia 124",
+      "oras": "Veneția 124",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -912,7 +912,7 @@
     },
     {
       "id": "131",
-      "oras": "Braşov 131",
+      "oras": "Brașov 131",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -926,14 +926,14 @@
     },
     {
       "id": "133",
-      "oras": "Iaşi 133",
+      "oras": "Iași 133",
       "tara": "România",
       "zile": 8,
       "vizitat": false
     },
     {
       "id": "134",
-      "oras": "Timişoara 134",
+      "oras": "Timișoara 134",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "147",
-      "oras": "Florenta 147",
+      "oras": "Florența 147",
       "tara": "Italia",
       "zile": 8,
       "vizitat": true
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "149",
-      "oras": "Venetia 149",
+      "oras": "Veneția 149",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "156",
-      "oras": "Braşov 156",
+      "oras": "Brașov 156",
       "tara": "România",
       "zile": 3,
       "vizitat": true
@@ -1101,14 +1101,14 @@
     },
     {
       "id": "158",
-      "oras": "Iaşi 158",
+      "oras": "Iași 158",
       "tara": "România",
       "zile": 5,
       "vizitat": false
     },
     {
       "id": "159",
-      "oras": "Timişoara 159",
+      "oras": "Timișoara 159",
       "tara": "România",
       "zile": 6,
       "vizitat": true
@@ -1199,7 +1199,7 @@
     },
     {
       "id": "172",
-      "oras": "Florenta 172",
+      "oras": "Florența 172",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "174",
-      "oras": "Venetia 174",
+      "oras": "Veneția 174",
       "tara": "Italia",
       "zile": 7,
       "vizitat": true
@@ -1262,7 +1262,7 @@
     },
     {
       "id": "181",
-      "oras": "Braşov 181",
+      "oras": "Brașov 181",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -1276,14 +1276,14 @@
     },
     {
       "id": "183",
-      "oras": "Iaşi 183",
+      "oras": "Iași 183",
       "tara": "România",
       "zile": 2,
       "vizitat": true
     },
     {
       "id": "184",
-      "oras": "Timişoara 184",
+      "oras": "Timișoara 184",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "197",
-      "oras": "Florenta 197",
+      "oras": "Florența 197",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -1388,7 +1388,7 @@
     },
     {
       "id": "199",
-      "oras": "Venetia 199",
+      "oras": "Veneția 199",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -1437,7 +1437,7 @@
     },
     {
       "id": "206",
-      "oras": "Braşov 206",
+      "oras": "Brașov 206",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -1451,14 +1451,14 @@
     },
     {
       "id": "208",
-      "oras": "Iaşi 208",
+      "oras": "Iași 208",
       "tara": "România",
       "zile": 13,
       "vizitat": false
     },
     {
       "id": "209",
-      "oras": "Timişoara 209",
+      "oras": "Timișoara 209",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -1549,7 +1549,7 @@
     },
     {
       "id": "222",
-      "oras": "Florenta 222",
+      "oras": "Florența 222",
       "tara": "Italia",
       "zile": 13,
       "vizitat": true
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "224",
-      "oras": "Venetia 224",
+      "oras": "Veneția 224",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -1612,7 +1612,7 @@
     },
     {
       "id": "231",
-      "oras": "Braşov 231",
+      "oras": "Brașov 231",
       "tara": "România",
       "zile": 8,
       "vizitat": true
@@ -1626,14 +1626,14 @@
     },
     {
       "id": "233",
-      "oras": "Iaşi 233",
+      "oras": "Iași 233",
       "tara": "România",
       "zile": 10,
       "vizitat": false
     },
     {
       "id": "234",
-      "oras": "Timişoara 234",
+      "oras": "Timișoara 234",
       "tara": "România",
       "zile": 11,
       "vizitat": true
@@ -1724,7 +1724,7 @@
     },
     {
       "id": "247",
-      "oras": "Florenta 247",
+      "oras": "Florența 247",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -1738,7 +1738,7 @@
     },
     {
       "id": "249",
-      "oras": "Venetia 249",
+      "oras": "Veneția 249",
       "tara": "Italia",
       "zile": 12,
       "vizitat": true
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "256",
-      "oras": "Braşov 256",
+      "oras": "Brașov 256",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -1801,14 +1801,14 @@
     },
     {
       "id": "258",
-      "oras": "Iaşi 258",
+      "oras": "Iași 258",
       "tara": "România",
       "zile": 7,
       "vizitat": true
     },
     {
       "id": "259",
-      "oras": "Timişoara 259",
+      "oras": "Timișoara 259",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -1899,7 +1899,7 @@
     },
     {
       "id": "272",
-      "oras": "Florenta 272",
+      "oras": "Florența 272",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -1913,7 +1913,7 @@
     },
     {
       "id": "274",
-      "oras": "Venetia 274",
+      "oras": "Veneția 274",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "281",
-      "oras": "Braşov 281",
+      "oras": "Brașov 281",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -1976,14 +1976,14 @@
     },
     {
       "id": "283",
-      "oras": "Iaşi 283",
+      "oras": "Iași 283",
       "tara": "România",
       "zile": 4,
       "vizitat": false
     },
     {
       "id": "284",
-      "oras": "Timişoara 284",
+      "oras": "Timișoara 284",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -2074,7 +2074,7 @@
     },
     {
       "id": "297",
-      "oras": "Florenta 297",
+      "oras": "Florența 297",
       "tara": "Italia",
       "zile": 4,
       "vizitat": true
@@ -2088,7 +2088,7 @@
     },
     {
       "id": "299",
-      "oras": "Venetia 299",
+      "oras": "Veneția 299",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "306",
-      "oras": "Braşov 306",
+      "oras": "Brașov 306",
       "tara": "România",
       "zile": 13,
       "vizitat": true
@@ -2151,14 +2151,14 @@
     },
     {
       "id": "308",
-      "oras": "Iaşi 308",
+      "oras": "Iași 308",
       "tara": "România",
       "zile": 1,
       "vizitat": false
     },
     {
       "id": "309",
-      "oras": "Timişoara 309",
+      "oras": "Timișoara 309",
       "tara": "România",
       "zile": 2,
       "vizitat": true
@@ -2249,7 +2249,7 @@
     },
     {
       "id": "322",
-      "oras": "Florenta 322",
+      "oras": "Florența 322",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -2263,7 +2263,7 @@
     },
     {
       "id": "324",
-      "oras": "Venetia 324",
+      "oras": "Veneția 324",
       "tara": "Italia",
       "zile": 3,
       "vizitat": true
@@ -2312,7 +2312,7 @@
     },
     {
       "id": "331",
-      "oras": "Braşov 331",
+      "oras": "Brașov 331",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -2326,14 +2326,14 @@
     },
     {
       "id": "333",
-      "oras": "Iaşi 333",
+      "oras": "Iași 333",
       "tara": "România",
       "zile": 12,
       "vizitat": true
     },
     {
       "id": "334",
-      "oras": "Timişoara 334",
+      "oras": "Timișoara 334",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -2424,7 +2424,7 @@
     },
     {
       "id": "347",
-      "oras": "Florenta 347",
+      "oras": "Florența 347",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -2438,7 +2438,7 @@
     },
     {
       "id": "349",
-      "oras": "Venetia 349",
+      "oras": "Veneția 349",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -2487,7 +2487,7 @@
     },
     {
       "id": "356",
-      "oras": "Braşov 356",
+      "oras": "Brașov 356",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -2501,14 +2501,14 @@
     },
     {
       "id": "358",
-      "oras": "Iaşi 358",
+      "oras": "Iași 358",
       "tara": "România",
       "zile": 9,
       "vizitat": false
     },
     {
       "id": "359",
-      "oras": "Timişoara 359",
+      "oras": "Timișoara 359",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -2599,7 +2599,7 @@
     },
     {
       "id": "372",
-      "oras": "Florenta 372",
+      "oras": "Florența 372",
       "tara": "Italia",
       "zile": 9,
       "vizitat": true
@@ -2613,7 +2613,7 @@
     },
     {
       "id": "374",
-      "oras": "Venetia 374",
+      "oras": "Veneția 374",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -2662,7 +2662,7 @@
     },
     {
       "id": "381",
-      "oras": "Braşov 381",
+      "oras": "Brașov 381",
       "tara": "România",
       "zile": 4,
       "vizitat": true
@@ -2676,14 +2676,14 @@
     },
     {
       "id": "383",
-      "oras": "Iaşi 383",
+      "oras": "Iași 383",
       "tara": "România",
       "zile": 6,
       "vizitat": false
     },
     {
       "id": "384",
-      "oras": "Timişoara 384",
+      "oras": "Timișoara 384",
       "tara": "România",
       "zile": 7,
       "vizitat": true
@@ -2774,7 +2774,7 @@
     },
     {
       "id": "397",
-      "oras": "Florenta 397",
+      "oras": "Florența 397",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -2788,7 +2788,7 @@
     },
     {
       "id": "399",
-      "oras": "Venetia 399",
+      "oras": "Veneția 399",
       "tara": "Italia",
       "zile": 8,
       "vizitat": true
@@ -2837,7 +2837,7 @@
     },
     {
       "id": "406",
-      "oras": "Braşov 406",
+      "oras": "Brașov 406",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -2851,14 +2851,14 @@
     },
     {
       "id": "408",
-      "oras": "Iaşi 408",
+      "oras": "Iași 408",
       "tara": "România",
       "zile": 3,
       "vizitat": true
     },
     {
       "id": "409",
-      "oras": "Timişoara 409",
+      "oras": "Timișoara 409",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -2949,7 +2949,7 @@
     },
     {
       "id": "422",
-      "oras": "Florenta 422",
+      "oras": "Florența 422",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -2963,7 +2963,7 @@
     },
     {
       "id": "424",
-      "oras": "Venetia 424",
+      "oras": "Veneția 424",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -3012,7 +3012,7 @@
     },
     {
       "id": "431",
-      "oras": "Braşov 431",
+      "oras": "Brașov 431",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -3026,14 +3026,14 @@
     },
     {
       "id": "433",
-      "oras": "Iaşi 433",
+      "oras": "Iași 433",
       "tara": "România",
       "zile": 14,
       "vizitat": false
     },
     {
       "id": "434",
-      "oras": "Timişoara 434",
+      "oras": "Timișoara 434",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -3124,7 +3124,7 @@
     },
     {
       "id": "447",
-      "oras": "Florenta 447",
+      "oras": "Florența 447",
       "tara": "Italia",
       "zile": 14,
       "vizitat": true
@@ -3138,7 +3138,7 @@
     },
     {
       "id": "449",
-      "oras": "Venetia 449",
+      "oras": "Veneția 449",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -3187,7 +3187,7 @@
     },
     {
       "id": "456",
-      "oras": "Braşov 456",
+      "oras": "Brașov 456",
       "tara": "România",
       "zile": 9,
       "vizitat": true
@@ -3201,14 +3201,14 @@
     },
     {
       "id": "458",
-      "oras": "Iaşi 458",
+      "oras": "Iași 458",
       "tara": "România",
       "zile": 11,
       "vizitat": false
     },
     {
       "id": "459",
-      "oras": "Timişoara 459",
+      "oras": "Timișoara 459",
       "tara": "România",
       "zile": 12,
       "vizitat": true
@@ -3299,7 +3299,7 @@
     },
     {
       "id": "472",
-      "oras": "Florenta 472",
+      "oras": "Florența 472",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -3313,7 +3313,7 @@
     },
     {
       "id": "474",
-      "oras": "Venetia 474",
+      "oras": "Veneția 474",
       "tara": "Italia",
       "zile": 13,
       "vizitat": true
@@ -3362,7 +3362,7 @@
     },
     {
       "id": "481",
-      "oras": "Braşov 481",
+      "oras": "Brașov 481",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -3376,14 +3376,14 @@
     },
     {
       "id": "483",
-      "oras": "Iaşi 483",
+      "oras": "Iași 483",
       "tara": "România",
       "zile": 8,
       "vizitat": true
     },
     {
       "id": "484",
-      "oras": "Timişoara 484",
+      "oras": "Timișoara 484",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -3474,7 +3474,7 @@
     },
     {
       "id": "497",
-      "oras": "Florenta 497",
+      "oras": "Florența 497",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -3488,7 +3488,7 @@
     },
     {
       "id": "499",
-      "oras": "Venetia 499",
+      "oras": "Veneția 499",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -3537,7 +3537,7 @@
     },
     {
       "id": "506",
-      "oras": "Braşov 506",
+      "oras": "Brașov 506",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -3551,14 +3551,14 @@
     },
     {
       "id": "508",
-      "oras": "Iaşi 508",
+      "oras": "Iași 508",
       "tara": "România",
       "zile": 5,
       "vizitat": false
     },
     {
       "id": "509",
-      "oras": "Timişoara 509",
+      "oras": "Timișoara 509",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -3649,7 +3649,7 @@
     },
     {
       "id": "522",
-      "oras": "Florenta 522",
+      "oras": "Florența 522",
       "tara": "Italia",
       "zile": 5,
       "vizitat": true
@@ -3663,7 +3663,7 @@
     },
     {
       "id": "524",
-      "oras": "Venetia 524",
+      "oras": "Veneția 524",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -3712,7 +3712,7 @@
     },
     {
       "id": "531",
-      "oras": "Braşov 531",
+      "oras": "Brașov 531",
       "tara": "România",
       "zile": 14,
       "vizitat": true
@@ -3726,14 +3726,14 @@
     },
     {
       "id": "533",
-      "oras": "Iaşi 533",
+      "oras": "Iași 533",
       "tara": "România",
       "zile": 2,
       "vizitat": false
     },
     {
       "id": "534",
-      "oras": "Timişoara 534",
+      "oras": "Timișoara 534",
       "tara": "România",
       "zile": 3,
       "vizitat": true
@@ -3824,7 +3824,7 @@
     },
     {
       "id": "547",
-      "oras": "Florenta 547",
+      "oras": "Florența 547",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -3838,7 +3838,7 @@
     },
     {
       "id": "549",
-      "oras": "Venetia 549",
+      "oras": "Veneția 549",
       "tara": "Italia",
       "zile": 4,
       "vizitat": true
@@ -3887,7 +3887,7 @@
     },
     {
       "id": "556",
-      "oras": "Braşov 556",
+      "oras": "Brașov 556",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -3901,14 +3901,14 @@
     },
     {
       "id": "558",
-      "oras": "Iaşi 558",
+      "oras": "Iași 558",
       "tara": "România",
       "zile": 13,
       "vizitat": true
     },
     {
       "id": "559",
-      "oras": "Timişoara 559",
+      "oras": "Timișoara 559",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -3999,7 +3999,7 @@
     },
     {
       "id": "572",
-      "oras": "Florenta 572",
+      "oras": "Florența 572",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -4013,7 +4013,7 @@
     },
     {
       "id": "574",
-      "oras": "Venetia 574",
+      "oras": "Veneția 574",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -4062,7 +4062,7 @@
     },
     {
       "id": "581",
-      "oras": "Braşov 581",
+      "oras": "Brașov 581",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -4076,14 +4076,14 @@
     },
     {
       "id": "583",
-      "oras": "Iaşi 583",
+      "oras": "Iași 583",
       "tara": "România",
       "zile": 10,
       "vizitat": false
     },
     {
       "id": "584",
-      "oras": "Timişoara 584",
+      "oras": "Timișoara 584",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -4174,7 +4174,7 @@
     },
     {
       "id": "597",
-      "oras": "Florenta 597",
+      "oras": "Florența 597",
       "tara": "Italia",
       "zile": 10,
       "vizitat": true
@@ -4188,7 +4188,7 @@
     },
     {
       "id": "599",
-      "oras": "Venetia 599",
+      "oras": "Veneția 599",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -4237,7 +4237,7 @@
     },
     {
       "id": "606",
-      "oras": "Braşov 606",
+      "oras": "Brașov 606",
       "tara": "România",
       "zile": 5,
       "vizitat": true
@@ -4251,14 +4251,14 @@
     },
     {
       "id": "608",
-      "oras": "Iaşi 608",
+      "oras": "Iași 608",
       "tara": "România",
       "zile": 7,
       "vizitat": false
     },
     {
       "id": "609",
-      "oras": "Timişoara 609",
+      "oras": "Timișoara 609",
       "tara": "România",
       "zile": 8,
       "vizitat": true
@@ -4349,7 +4349,7 @@
     },
     {
       "id": "622",
-      "oras": "Florenta 622",
+      "oras": "Florența 622",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -4363,7 +4363,7 @@
     },
     {
       "id": "624",
-      "oras": "Venetia 624",
+      "oras": "Veneția 624",
       "tara": "Italia",
       "zile": 9,
       "vizitat": true
@@ -4412,7 +4412,7 @@
     },
     {
       "id": "631",
-      "oras": "Braşov 631",
+      "oras": "Brașov 631",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -4426,14 +4426,14 @@
     },
     {
       "id": "633",
-      "oras": "Iaşi 633",
+      "oras": "Iași 633",
       "tara": "România",
       "zile": 4,
       "vizitat": true
     },
     {
       "id": "634",
-      "oras": "Timişoara 634",
+      "oras": "Timișoara 634",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -4524,7 +4524,7 @@
     },
     {
       "id": "647",
-      "oras": "Florenta 647",
+      "oras": "Florența 647",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -4538,7 +4538,7 @@
     },
     {
       "id": "649",
-      "oras": "Venetia 649",
+      "oras": "Veneția 649",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -4587,7 +4587,7 @@
     },
     {
       "id": "656",
-      "oras": "Braşov 656",
+      "oras": "Brașov 656",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -4601,14 +4601,14 @@
     },
     {
       "id": "658",
-      "oras": "Iaşi 658",
+      "oras": "Iași 658",
       "tara": "România",
       "zile": 1,
       "vizitat": false
     },
     {
       "id": "659",
-      "oras": "Timişoara 659",
+      "oras": "Timișoara 659",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -4699,7 +4699,7 @@
     },
     {
       "id": "672",
-      "oras": "Florenta 672",
+      "oras": "Florența 672",
       "tara": "Italia",
       "zile": 1,
       "vizitat": true
@@ -4713,7 +4713,7 @@
     },
     {
       "id": "674",
-      "oras": "Venetia 674",
+      "oras": "Veneția 674",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -4762,7 +4762,7 @@
     },
     {
       "id": "681",
-      "oras": "Braşov 681",
+      "oras": "Brașov 681",
       "tara": "România",
       "zile": 10,
       "vizitat": true
@@ -4776,14 +4776,14 @@
     },
     {
       "id": "683",
-      "oras": "Iaşi 683",
+      "oras": "Iași 683",
       "tara": "România",
       "zile": 12,
       "vizitat": false
     },
     {
       "id": "684",
-      "oras": "Timişoara 684",
+      "oras": "Timișoara 684",
       "tara": "România",
       "zile": 13,
       "vizitat": true
@@ -4874,7 +4874,7 @@
     },
     {
       "id": "697",
-      "oras": "Florenta 697",
+      "oras": "Florența 697",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -4888,7 +4888,7 @@
     },
     {
       "id": "699",
-      "oras": "Venetia 699",
+      "oras": "Veneția 699",
       "tara": "Italia",
       "zile": 14,
       "vizitat": true
@@ -4937,7 +4937,7 @@
     },
     {
       "id": "706",
-      "oras": "Braşov 706",
+      "oras": "Brașov 706",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -4951,14 +4951,14 @@
     },
     {
       "id": "708",
-      "oras": "Iaşi 708",
+      "oras": "Iași 708",
       "tara": "România",
       "zile": 9,
       "vizitat": true
     },
     {
       "id": "709",
-      "oras": "Timişoara 709",
+      "oras": "Timișoara 709",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -5049,7 +5049,7 @@
     },
     {
       "id": "722",
-      "oras": "Florenta 722",
+      "oras": "Florența 722",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -5063,7 +5063,7 @@
     },
     {
       "id": "724",
-      "oras": "Venetia 724",
+      "oras": "Veneția 724",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -5112,7 +5112,7 @@
     },
     {
       "id": "731",
-      "oras": "Braşov 731",
+      "oras": "Brașov 731",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -5126,14 +5126,14 @@
     },
     {
       "id": "733",
-      "oras": "Iaşi 733",
+      "oras": "Iași 733",
       "tara": "România",
       "zile": 6,
       "vizitat": false
     },
     {
       "id": "734",
-      "oras": "Timişoara 734",
+      "oras": "Timișoara 734",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -5224,7 +5224,7 @@
     },
     {
       "id": "747",
-      "oras": "Florenta 747",
+      "oras": "Florența 747",
       "tara": "Italia",
       "zile": 6,
       "vizitat": true
@@ -5238,7 +5238,7 @@
     },
     {
       "id": "749",
-      "oras": "Venetia 749",
+      "oras": "Veneția 749",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -5287,7 +5287,7 @@
     },
     {
       "id": "756",
-      "oras": "Braşov 756",
+      "oras": "Brașov 756",
       "tara": "România",
       "zile": 1,
       "vizitat": true
@@ -5301,14 +5301,14 @@
     },
     {
       "id": "758",
-      "oras": "Iaşi 758",
+      "oras": "Iași 758",
       "tara": "România",
       "zile": 3,
       "vizitat": false
     },
     {
       "id": "759",
-      "oras": "Timişoara 759",
+      "oras": "Timișoara 759",
       "tara": "România",
       "zile": 4,
       "vizitat": true
@@ -5399,7 +5399,7 @@
     },
     {
       "id": "772",
-      "oras": "Florenta 772",
+      "oras": "Florența 772",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -5413,7 +5413,7 @@
     },
     {
       "id": "774",
-      "oras": "Venetia 774",
+      "oras": "Veneția 774",
       "tara": "Italia",
       "zile": 5,
       "vizitat": true
@@ -5462,7 +5462,7 @@
     },
     {
       "id": "781",
-      "oras": "Braşov 781",
+      "oras": "Brașov 781",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -5476,14 +5476,14 @@
     },
     {
       "id": "783",
-      "oras": "Iaşi 783",
+      "oras": "Iași 783",
       "tara": "România",
       "zile": 14,
       "vizitat": true
     },
     {
       "id": "784",
-      "oras": "Timişoara 784",
+      "oras": "Timișoara 784",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -5574,7 +5574,7 @@
     },
     {
       "id": "797",
-      "oras": "Florenta 797",
+      "oras": "Florența 797",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -5588,7 +5588,7 @@
     },
     {
       "id": "799",
-      "oras": "Venetia 799",
+      "oras": "Veneția 799",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -5637,7 +5637,7 @@
     },
     {
       "id": "806",
-      "oras": "Braşov 806",
+      "oras": "Brașov 806",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -5651,14 +5651,14 @@
     },
     {
       "id": "808",
-      "oras": "Iaşi 808",
+      "oras": "Iași 808",
       "tara": "România",
       "zile": 11,
       "vizitat": false
     },
     {
       "id": "809",
-      "oras": "Timişoara 809",
+      "oras": "Timișoara 809",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -5749,7 +5749,7 @@
     },
     {
       "id": "822",
-      "oras": "Florenta 822",
+      "oras": "Florența 822",
       "tara": "Italia",
       "zile": 11,
       "vizitat": true
@@ -5763,7 +5763,7 @@
     },
     {
       "id": "824",
-      "oras": "Venetia 824",
+      "oras": "Veneția 824",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -5812,7 +5812,7 @@
     },
     {
       "id": "831",
-      "oras": "Braşov 831",
+      "oras": "Brașov 831",
       "tara": "România",
       "zile": 6,
       "vizitat": true
@@ -5826,14 +5826,14 @@
     },
     {
       "id": "833",
-      "oras": "Iaşi 833",
+      "oras": "Iași 833",
       "tara": "România",
       "zile": 8,
       "vizitat": false
     },
     {
       "id": "834",
-      "oras": "Timişoara 834",
+      "oras": "Timișoara 834",
       "tara": "România",
       "zile": 9,
       "vizitat": true
@@ -5924,7 +5924,7 @@
     },
     {
       "id": "847",
-      "oras": "Florenta 847",
+      "oras": "Florența 847",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -5938,7 +5938,7 @@
     },
     {
       "id": "849",
-      "oras": "Venetia 849",
+      "oras": "Veneția 849",
       "tara": "Italia",
       "zile": 10,
       "vizitat": true
@@ -5987,7 +5987,7 @@
     },
     {
       "id": "856",
-      "oras": "Braşov 856",
+      "oras": "Brașov 856",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -6001,14 +6001,14 @@
     },
     {
       "id": "858",
-      "oras": "Iaşi 858",
+      "oras": "Iași 858",
       "tara": "România",
       "zile": 5,
       "vizitat": true
     },
     {
       "id": "859",
-      "oras": "Timişoara 859",
+      "oras": "Timișoara 859",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -6099,7 +6099,7 @@
     },
     {
       "id": "872",
-      "oras": "Florenta 872",
+      "oras": "Florența 872",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -6113,7 +6113,7 @@
     },
     {
       "id": "874",
-      "oras": "Venetia 874",
+      "oras": "Veneția 874",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -6162,7 +6162,7 @@
     },
     {
       "id": "881",
-      "oras": "Braşov 881",
+      "oras": "Brașov 881",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -6176,14 +6176,14 @@
     },
     {
       "id": "883",
-      "oras": "Iaşi 883",
+      "oras": "Iași 883",
       "tara": "România",
       "zile": 2,
       "vizitat": false
     },
     {
       "id": "884",
-      "oras": "Timişoara 884",
+      "oras": "Timișoara 884",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -6274,7 +6274,7 @@
     },
     {
       "id": "897",
-      "oras": "Florenta 897",
+      "oras": "Florența 897",
       "tara": "Italia",
       "zile": 2,
       "vizitat": true
@@ -6288,7 +6288,7 @@
     },
     {
       "id": "899",
-      "oras": "Venetia 899",
+      "oras": "Veneția 899",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -6337,7 +6337,7 @@
     },
     {
       "id": "906",
-      "oras": "Braşov 906",
+      "oras": "Brașov 906",
       "tara": "România",
       "zile": 11,
       "vizitat": true
@@ -6351,14 +6351,14 @@
     },
     {
       "id": "908",
-      "oras": "Iaşi 908",
+      "oras": "Iași 908",
       "tara": "România",
       "zile": 13,
       "vizitat": false
     },
     {
       "id": "909",
-      "oras": "Timişoara 909",
+      "oras": "Timișoara 909",
       "tara": "România",
       "zile": 14,
       "vizitat": true
@@ -6449,7 +6449,7 @@
     },
     {
       "id": "922",
-      "oras": "Florenta 922",
+      "oras": "Florența 922",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -6463,7 +6463,7 @@
     },
     {
       "id": "924",
-      "oras": "Venetia 924",
+      "oras": "Veneția 924",
       "tara": "Italia",
       "zile": 1,
       "vizitat": true
@@ -6512,7 +6512,7 @@
     },
     {
       "id": "931",
-      "oras": "Braşov 931",
+      "oras": "Brașov 931",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -6526,14 +6526,14 @@
     },
     {
       "id": "933",
-      "oras": "Iaşi 933",
+      "oras": "Iași 933",
       "tara": "România",
       "zile": 10,
       "vizitat": true
     },
     {
       "id": "934",
-      "oras": "Timişoara 934",
+      "oras": "Timișoara 934",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -6624,7 +6624,7 @@
     },
     {
       "id": "947",
-      "oras": "Florenta 947",
+      "oras": "Florența 947",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -6638,7 +6638,7 @@
     },
     {
       "id": "949",
-      "oras": "Venetia 949",
+      "oras": "Veneția 949",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -6687,7 +6687,7 @@
     },
     {
       "id": "956",
-      "oras": "Braşov 956",
+      "oras": "Brașov 956",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -6701,14 +6701,14 @@
     },
     {
       "id": "958",
-      "oras": "Iaşi 958",
+      "oras": "Iași 958",
       "tara": "România",
       "zile": 7,
       "vizitat": false
     },
     {
       "id": "959",
-      "oras": "Timişoara 959",
+      "oras": "Timișoara 959",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -6799,7 +6799,7 @@
     },
     {
       "id": "972",
-      "oras": "Florenta 972",
+      "oras": "Florența 972",
       "tara": "Italia",
       "zile": 7,
       "vizitat": true
@@ -6813,7 +6813,7 @@
     },
     {
       "id": "974",
-      "oras": "Venetia 974",
+      "oras": "Veneția 974",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -6862,7 +6862,7 @@
     },
     {
       "id": "981",
-      "oras": "Braşov 981",
+      "oras": "Brașov 981",
       "tara": "România",
       "zile": 2,
       "vizitat": true
@@ -6876,14 +6876,14 @@
     },
     {
       "id": "983",
-      "oras": "Iaşi 983",
+      "oras": "Iași 983",
       "tara": "România",
       "zile": 4,
       "vizitat": false
     },
     {
       "id": "984",
-      "oras": "Timişoara 984",
+      "oras": "Timișoara 984",
       "tara": "România",
       "zile": 5,
       "vizitat": true
@@ -6974,7 +6974,7 @@
     },
     {
       "id": "997",
-      "oras": "Florenta 997",
+      "oras": "Florența 997",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -6988,7 +6988,7 @@
     },
     {
       "id": "999",
-      "oras": "Venetia 999",
+      "oras": "Veneția 999",
       "tara": "Italia",
       "zile": 6,
       "vizitat": true
@@ -7037,7 +7037,7 @@
     },
     {
       "id": "1006",
-      "oras": "Braşov 1006",
+      "oras": "Brașov 1006",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -7051,14 +7051,14 @@
     },
     {
       "id": "1008",
-      "oras": "Iaşi 1008",
+      "oras": "Iași 1008",
       "tara": "România",
       "zile": 1,
       "vizitat": true
     },
     {
       "id": "1009",
-      "oras": "Timişoara 1009",
+      "oras": "Timișoara 1009",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -7149,7 +7149,7 @@
     },
     {
       "id": "1022",
-      "oras": "Florenta 1022",
+      "oras": "Florența 1022",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -7163,7 +7163,7 @@
     },
     {
       "id": "1024",
-      "oras": "Venetia 1024",
+      "oras": "Veneția 1024",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -7212,7 +7212,7 @@
     },
     {
       "id": "1031",
-      "oras": "Braşov 1031",
+      "oras": "Brașov 1031",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -7226,14 +7226,14 @@
     },
     {
       "id": "1033",
-      "oras": "Iaşi 1033",
+      "oras": "Iași 1033",
       "tara": "România",
       "zile": 12,
       "vizitat": false
     },
     {
       "id": "1034",
-      "oras": "Timişoara 1034",
+      "oras": "Timișoara 1034",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -7324,7 +7324,7 @@
     },
     {
       "id": "1047",
-      "oras": "Florenta 1047",
+      "oras": "Florența 1047",
       "tara": "Italia",
       "zile": 12,
       "vizitat": true
@@ -7338,7 +7338,7 @@
     },
     {
       "id": "1049",
-      "oras": "Venetia 1049",
+      "oras": "Veneția 1049",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -7387,7 +7387,7 @@
     },
     {
       "id": "1056",
-      "oras": "Braşov 1056",
+      "oras": "Brașov 1056",
       "tara": "România",
       "zile": 7,
       "vizitat": true
@@ -7401,14 +7401,14 @@
     },
     {
       "id": "1058",
-      "oras": "Iaşi 1058",
+      "oras": "Iași 1058",
       "tara": "România",
       "zile": 9,
       "vizitat": false
     },
     {
       "id": "1059",
-      "oras": "Timişoara 1059",
+      "oras": "Timișoara 1059",
       "tara": "România",
       "zile": 10,
       "vizitat": true
@@ -7499,7 +7499,7 @@
     },
     {
       "id": "1072",
-      "oras": "Florenta 1072",
+      "oras": "Florența 1072",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -7513,7 +7513,7 @@
     },
     {
       "id": "1074",
-      "oras": "Venetia 1074",
+      "oras": "Veneția 1074",
       "tara": "Italia",
       "zile": 11,
       "vizitat": true
@@ -7562,7 +7562,7 @@
     },
     {
       "id": "1081",
-      "oras": "Braşov 1081",
+      "oras": "Brașov 1081",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -7576,14 +7576,14 @@
     },
     {
       "id": "1083",
-      "oras": "Iaşi 1083",
+      "oras": "Iași 1083",
       "tara": "România",
       "zile": 6,
       "vizitat": true
     },
     {
       "id": "1084",
-      "oras": "Timişoara 1084",
+      "oras": "Timișoara 1084",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -7674,7 +7674,7 @@
     },
     {
       "id": "1097",
-      "oras": "Florenta 1097",
+      "oras": "Florența 1097",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -7688,7 +7688,7 @@
     },
     {
       "id": "1099",
-      "oras": "Venetia 1099",
+      "oras": "Veneția 1099",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -7737,7 +7737,7 @@
     },
     {
       "id": "1106",
-      "oras": "Braşov 1106",
+      "oras": "Brașov 1106",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -7751,14 +7751,14 @@
     },
     {
       "id": "1108",
-      "oras": "Iaşi 1108",
+      "oras": "Iași 1108",
       "tara": "România",
       "zile": 3,
       "vizitat": false
     },
     {
       "id": "1109",
-      "oras": "Timişoara 1109",
+      "oras": "Timișoara 1109",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -7849,7 +7849,7 @@
     },
     {
       "id": "1122",
-      "oras": "Florenta 1122",
+      "oras": "Florența 1122",
       "tara": "Italia",
       "zile": 3,
       "vizitat": true
@@ -7863,7 +7863,7 @@
     },
     {
       "id": "1124",
-      "oras": "Venetia 1124",
+      "oras": "Veneția 1124",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -7912,7 +7912,7 @@
     },
     {
       "id": "1131",
-      "oras": "Braşov 1131",
+      "oras": "Brașov 1131",
       "tara": "România",
       "zile": 12,
       "vizitat": true
@@ -7926,14 +7926,14 @@
     },
     {
       "id": "1133",
-      "oras": "Iaşi 1133",
+      "oras": "Iași 1133",
       "tara": "România",
       "zile": 14,
       "vizitat": false
     },
     {
       "id": "1134",
-      "oras": "Timişoara 1134",
+      "oras": "Timișoara 1134",
       "tara": "România",
       "zile": 1,
       "vizitat": true
@@ -8024,7 +8024,7 @@
     },
     {
       "id": "1147",
-      "oras": "Florenta 1147",
+      "oras": "Florența 1147",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -8038,7 +8038,7 @@
     },
     {
       "id": "1149",
-      "oras": "Venetia 1149",
+      "oras": "Veneția 1149",
       "tara": "Italia",
       "zile": 2,
       "vizitat": true
@@ -8087,7 +8087,7 @@
     },
     {
       "id": "1156",
-      "oras": "Braşov 1156",
+      "oras": "Brașov 1156",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -8101,14 +8101,14 @@
     },
     {
       "id": "1158",
-      "oras": "Iaşi 1158",
+      "oras": "Iași 1158",
       "tara": "România",
       "zile": 11,
       "vizitat": true
     },
     {
       "id": "1159",
-      "oras": "Timişoara 1159",
+      "oras": "Timișoara 1159",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -8199,7 +8199,7 @@
     },
     {
       "id": "1172",
-      "oras": "Florenta 1172",
+      "oras": "Florența 1172",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -8213,7 +8213,7 @@
     },
     {
       "id": "1174",
-      "oras": "Venetia 1174",
+      "oras": "Veneția 1174",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -8262,7 +8262,7 @@
     },
     {
       "id": "1181",
-      "oras": "Braşov 1181",
+      "oras": "Brașov 1181",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -8276,14 +8276,14 @@
     },
     {
       "id": "1183",
-      "oras": "Iaşi 1183",
+      "oras": "Iași 1183",
       "tara": "România",
       "zile": 8,
       "vizitat": false
     },
     {
       "id": "1184",
-      "oras": "Timişoara 1184",
+      "oras": "Timișoara 1184",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -8374,7 +8374,7 @@
     },
     {
       "id": "1197",
-      "oras": "Florenta 1197",
+      "oras": "Florența 1197",
       "tara": "Italia",
       "zile": 8,
       "vizitat": true
@@ -8388,7 +8388,7 @@
     },
     {
       "id": "1199",
-      "oras": "Venetia 1199",
+      "oras": "Veneția 1199",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -8437,7 +8437,7 @@
     },
     {
       "id": "1206",
-      "oras": "Braşov 1206",
+      "oras": "Brașov 1206",
       "tara": "România",
       "zile": 3,
       "vizitat": true
@@ -8451,14 +8451,14 @@
     },
     {
       "id": "1208",
-      "oras": "Iaşi 1208",
+      "oras": "Iași 1208",
       "tara": "România",
       "zile": 5,
       "vizitat": false
     },
     {
       "id": "1209",
-      "oras": "Timişoara 1209",
+      "oras": "Timișoara 1209",
       "tara": "România",
       "zile": 6,
       "vizitat": true
@@ -8549,7 +8549,7 @@
     },
     {
       "id": "1222",
-      "oras": "Florenta 1222",
+      "oras": "Florența 1222",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -8563,7 +8563,7 @@
     },
     {
       "id": "1224",
-      "oras": "Venetia 1224",
+      "oras": "Veneția 1224",
       "tara": "Italia",
       "zile": 7,
       "vizitat": true
@@ -8612,7 +8612,7 @@
     },
     {
       "id": "1231",
-      "oras": "Braşov 1231",
+      "oras": "Brașov 1231",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -8626,14 +8626,14 @@
     },
     {
       "id": "1233",
-      "oras": "Iaşi 1233",
+      "oras": "Iași 1233",
       "tara": "România",
       "zile": 2,
       "vizitat": true
     },
     {
       "id": "1234",
-      "oras": "Timişoara 1234",
+      "oras": "Timișoara 1234",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -8724,7 +8724,7 @@
     },
     {
       "id": "1247",
-      "oras": "Florenta 1247",
+      "oras": "Florența 1247",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -8738,7 +8738,7 @@
     },
     {
       "id": "1249",
-      "oras": "Venetia 1249",
+      "oras": "Veneția 1249",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -8787,7 +8787,7 @@
     },
     {
       "id": "1256",
-      "oras": "Braşov 1256",
+      "oras": "Brașov 1256",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -8801,14 +8801,14 @@
     },
     {
       "id": "1258",
-      "oras": "Iaşi 1258",
+      "oras": "Iași 1258",
       "tara": "România",
       "zile": 13,
       "vizitat": false
     },
     {
       "id": "1259",
-      "oras": "Timişoara 1259",
+      "oras": "Timișoara 1259",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -8899,7 +8899,7 @@
     },
     {
       "id": "1272",
-      "oras": "Florenta 1272",
+      "oras": "Florența 1272",
       "tara": "Italia",
       "zile": 13,
       "vizitat": true
@@ -8913,7 +8913,7 @@
     },
     {
       "id": "1274",
-      "oras": "Venetia 1274",
+      "oras": "Veneția 1274",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -8962,7 +8962,7 @@
     },
     {
       "id": "1281",
-      "oras": "Braşov 1281",
+      "oras": "Brașov 1281",
       "tara": "România",
       "zile": 8,
       "vizitat": true
@@ -8976,14 +8976,14 @@
     },
     {
       "id": "1283",
-      "oras": "Iaşi 1283",
+      "oras": "Iași 1283",
       "tara": "România",
       "zile": 10,
       "vizitat": false
     },
     {
       "id": "1284",
-      "oras": "Timişoara 1284",
+      "oras": "Timișoara 1284",
       "tara": "România",
       "zile": 11,
       "vizitat": true
@@ -9074,7 +9074,7 @@
     },
     {
       "id": "1297",
-      "oras": "Florenta 1297",
+      "oras": "Florența 1297",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -9088,7 +9088,7 @@
     },
     {
       "id": "1299",
-      "oras": "Venetia 1299",
+      "oras": "Veneția 1299",
       "tara": "Italia",
       "zile": 12,
       "vizitat": true
@@ -9137,7 +9137,7 @@
     },
     {
       "id": "1306",
-      "oras": "Braşov 1306",
+      "oras": "Brașov 1306",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -9151,14 +9151,14 @@
     },
     {
       "id": "1308",
-      "oras": "Iaşi 1308",
+      "oras": "Iași 1308",
       "tara": "România",
       "zile": 7,
       "vizitat": true
     },
     {
       "id": "1309",
-      "oras": "Timişoara 1309",
+      "oras": "Timișoara 1309",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -9249,7 +9249,7 @@
     },
     {
       "id": "1322",
-      "oras": "Florenta 1322",
+      "oras": "Florența 1322",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -9263,7 +9263,7 @@
     },
     {
       "id": "1324",
-      "oras": "Venetia 1324",
+      "oras": "Veneția 1324",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -9312,7 +9312,7 @@
     },
     {
       "id": "1331",
-      "oras": "Braşov 1331",
+      "oras": "Brașov 1331",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -9326,14 +9326,14 @@
     },
     {
       "id": "1333",
-      "oras": "Iaşi 1333",
+      "oras": "Iași 1333",
       "tara": "România",
       "zile": 4,
       "vizitat": false
     },
     {
       "id": "1334",
-      "oras": "Timişoara 1334",
+      "oras": "Timișoara 1334",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -9424,7 +9424,7 @@
     },
     {
       "id": "1347",
-      "oras": "Florenta 1347",
+      "oras": "Florența 1347",
       "tara": "Italia",
       "zile": 4,
       "vizitat": true
@@ -9438,7 +9438,7 @@
     },
     {
       "id": "1349",
-      "oras": "Venetia 1349",
+      "oras": "Veneția 1349",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -9487,7 +9487,7 @@
     },
     {
       "id": "1356",
-      "oras": "Braşov 1356",
+      "oras": "Brașov 1356",
       "tara": "România",
       "zile": 13,
       "vizitat": true
@@ -9501,14 +9501,14 @@
     },
     {
       "id": "1358",
-      "oras": "Iaşi 1358",
+      "oras": "Iași 1358",
       "tara": "România",
       "zile": 1,
       "vizitat": false
     },
     {
       "id": "1359",
-      "oras": "Timişoara 1359",
+      "oras": "Timișoara 1359",
       "tara": "România",
       "zile": 2,
       "vizitat": true
@@ -9599,7 +9599,7 @@
     },
     {
       "id": "1372",
-      "oras": "Florenta 1372",
+      "oras": "Florența 1372",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -9613,7 +9613,7 @@
     },
     {
       "id": "1374",
-      "oras": "Venetia 1374",
+      "oras": "Veneția 1374",
       "tara": "Italia",
       "zile": 3,
       "vizitat": true
@@ -9662,7 +9662,7 @@
     },
     {
       "id": "1381",
-      "oras": "Braşov 1381",
+      "oras": "Brașov 1381",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -9676,14 +9676,14 @@
     },
     {
       "id": "1383",
-      "oras": "Iaşi 1383",
+      "oras": "Iași 1383",
       "tara": "România",
       "zile": 12,
       "vizitat": true
     },
     {
       "id": "1384",
-      "oras": "Timişoara 1384",
+      "oras": "Timișoara 1384",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -9774,7 +9774,7 @@
     },
     {
       "id": "1397",
-      "oras": "Florenta 1397",
+      "oras": "Florența 1397",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -9788,7 +9788,7 @@
     },
     {
       "id": "1399",
-      "oras": "Venetia 1399",
+      "oras": "Veneția 1399",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -9837,7 +9837,7 @@
     },
     {
       "id": "1406",
-      "oras": "Braşov 1406",
+      "oras": "Brașov 1406",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -9851,14 +9851,14 @@
     },
     {
       "id": "1408",
-      "oras": "Iaşi 1408",
+      "oras": "Iași 1408",
       "tara": "România",
       "zile": 9,
       "vizitat": false
     },
     {
       "id": "1409",
-      "oras": "Timişoara 1409",
+      "oras": "Timișoara 1409",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -9949,7 +9949,7 @@
     },
     {
       "id": "1422",
-      "oras": "Florenta 1422",
+      "oras": "Florența 1422",
       "tara": "Italia",
       "zile": 9,
       "vizitat": true
@@ -9963,7 +9963,7 @@
     },
     {
       "id": "1424",
-      "oras": "Venetia 1424",
+      "oras": "Veneția 1424",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -10012,7 +10012,7 @@
     },
     {
       "id": "1431",
-      "oras": "Braşov 1431",
+      "oras": "Brașov 1431",
       "tara": "România",
       "zile": 4,
       "vizitat": true
@@ -10026,14 +10026,14 @@
     },
     {
       "id": "1433",
-      "oras": "Iaşi 1433",
+      "oras": "Iași 1433",
       "tara": "România",
       "zile": 6,
       "vizitat": false
     },
     {
       "id": "1434",
-      "oras": "Timişoara 1434",
+      "oras": "Timișoara 1434",
       "tara": "România",
       "zile": 7,
       "vizitat": true
@@ -10124,7 +10124,7 @@
     },
     {
       "id": "1447",
-      "oras": "Florenta 1447",
+      "oras": "Florența 1447",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -10138,7 +10138,7 @@
     },
     {
       "id": "1449",
-      "oras": "Venetia 1449",
+      "oras": "Veneția 1449",
       "tara": "Italia",
       "zile": 8,
       "vizitat": true
@@ -10187,7 +10187,7 @@
     },
     {
       "id": "1456",
-      "oras": "Braşov 1456",
+      "oras": "Brașov 1456",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -10201,14 +10201,14 @@
     },
     {
       "id": "1458",
-      "oras": "Iaşi 1458",
+      "oras": "Iași 1458",
       "tara": "România",
       "zile": 3,
       "vizitat": true
     },
     {
       "id": "1459",
-      "oras": "Timişoara 1459",
+      "oras": "Timișoara 1459",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -10299,7 +10299,7 @@
     },
     {
       "id": "1472",
-      "oras": "Florenta 1472",
+      "oras": "Florența 1472",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -10313,7 +10313,7 @@
     },
     {
       "id": "1474",
-      "oras": "Venetia 1474",
+      "oras": "Veneția 1474",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -10362,7 +10362,7 @@
     },
     {
       "id": "1481",
-      "oras": "Braşov 1481",
+      "oras": "Brașov 1481",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -10376,14 +10376,14 @@
     },
     {
       "id": "1483",
-      "oras": "Iaşi 1483",
+      "oras": "Iași 1483",
       "tara": "România",
       "zile": 14,
       "vizitat": false
     },
     {
       "id": "1484",
-      "oras": "Timişoara 1484",
+      "oras": "Timișoara 1484",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -10474,7 +10474,7 @@
     },
     {
       "id": "1497",
-      "oras": "Florenta 1497",
+      "oras": "Florența 1497",
       "tara": "Italia",
       "zile": 14,
       "vizitat": true
@@ -10488,7 +10488,7 @@
     },
     {
       "id": "1499",
-      "oras": "Venetia 1499",
+      "oras": "Veneția 1499",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -10537,7 +10537,7 @@
     },
     {
       "id": "1506",
-      "oras": "Braşov 1506",
+      "oras": "Brașov 1506",
       "tara": "România",
       "zile": 9,
       "vizitat": true
@@ -10551,14 +10551,14 @@
     },
     {
       "id": "1508",
-      "oras": "Iaşi 1508",
+      "oras": "Iași 1508",
       "tara": "România",
       "zile": 11,
       "vizitat": false
     },
     {
       "id": "1509",
-      "oras": "Timişoara 1509",
+      "oras": "Timișoara 1509",
       "tara": "România",
       "zile": 12,
       "vizitat": true
@@ -10649,7 +10649,7 @@
     },
     {
       "id": "1522",
-      "oras": "Florenta 1522",
+      "oras": "Florența 1522",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -10663,7 +10663,7 @@
     },
     {
       "id": "1524",
-      "oras": "Venetia 1524",
+      "oras": "Veneția 1524",
       "tara": "Italia",
       "zile": 13,
       "vizitat": true
@@ -10712,7 +10712,7 @@
     },
     {
       "id": "1531",
-      "oras": "Braşov 1531",
+      "oras": "Brașov 1531",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -10726,14 +10726,14 @@
     },
     {
       "id": "1533",
-      "oras": "Iaşi 1533",
+      "oras": "Iași 1533",
       "tara": "România",
       "zile": 8,
       "vizitat": true
     },
     {
       "id": "1534",
-      "oras": "Timişoara 1534",
+      "oras": "Timișoara 1534",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -10824,7 +10824,7 @@
     },
     {
       "id": "1547",
-      "oras": "Florenta 1547",
+      "oras": "Florența 1547",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -10838,7 +10838,7 @@
     },
     {
       "id": "1549",
-      "oras": "Venetia 1549",
+      "oras": "Veneția 1549",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -10887,7 +10887,7 @@
     },
     {
       "id": "1556",
-      "oras": "Braşov 1556",
+      "oras": "Brașov 1556",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -10901,14 +10901,14 @@
     },
     {
       "id": "1558",
-      "oras": "Iaşi 1558",
+      "oras": "Iași 1558",
       "tara": "România",
       "zile": 5,
       "vizitat": false
     },
     {
       "id": "1559",
-      "oras": "Timişoara 1559",
+      "oras": "Timișoara 1559",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -10999,7 +10999,7 @@
     },
     {
       "id": "1572",
-      "oras": "Florenta 1572",
+      "oras": "Florența 1572",
       "tara": "Italia",
       "zile": 5,
       "vizitat": true
@@ -11013,7 +11013,7 @@
     },
     {
       "id": "1574",
-      "oras": "Venetia 1574",
+      "oras": "Veneția 1574",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -11062,7 +11062,7 @@
     },
     {
       "id": "1581",
-      "oras": "Braşov 1581",
+      "oras": "Brașov 1581",
       "tara": "România",
       "zile": 14,
       "vizitat": true
@@ -11076,14 +11076,14 @@
     },
     {
       "id": "1583",
-      "oras": "Iaşi 1583",
+      "oras": "Iași 1583",
       "tara": "România",
       "zile": 2,
       "vizitat": false
     },
     {
       "id": "1584",
-      "oras": "Timişoara 1584",
+      "oras": "Timișoara 1584",
       "tara": "România",
       "zile": 3,
       "vizitat": true
@@ -11174,7 +11174,7 @@
     },
     {
       "id": "1597",
-      "oras": "Florenta 1597",
+      "oras": "Florența 1597",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -11188,7 +11188,7 @@
     },
     {
       "id": "1599",
-      "oras": "Venetia 1599",
+      "oras": "Veneția 1599",
       "tara": "Italia",
       "zile": 4,
       "vizitat": true
@@ -11237,7 +11237,7 @@
     },
     {
       "id": "1606",
-      "oras": "Braşov 1606",
+      "oras": "Brașov 1606",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -11251,14 +11251,14 @@
     },
     {
       "id": "1608",
-      "oras": "Iaşi 1608",
+      "oras": "Iași 1608",
       "tara": "România",
       "zile": 13,
       "vizitat": true
     },
     {
       "id": "1609",
-      "oras": "Timişoara 1609",
+      "oras": "Timișoara 1609",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -11349,7 +11349,7 @@
     },
     {
       "id": "1622",
-      "oras": "Florenta 1622",
+      "oras": "Florența 1622",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -11363,7 +11363,7 @@
     },
     {
       "id": "1624",
-      "oras": "Venetia 1624",
+      "oras": "Veneția 1624",
       "tara": "Italia",
       "zile": 1,
       "vizitat": false
@@ -11412,7 +11412,7 @@
     },
     {
       "id": "1631",
-      "oras": "Braşov 1631",
+      "oras": "Brașov 1631",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -11426,14 +11426,14 @@
     },
     {
       "id": "1633",
-      "oras": "Iaşi 1633",
+      "oras": "Iași 1633",
       "tara": "România",
       "zile": 10,
       "vizitat": false
     },
     {
       "id": "1634",
-      "oras": "Timişoara 1634",
+      "oras": "Timișoara 1634",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -11524,7 +11524,7 @@
     },
     {
       "id": "1647",
-      "oras": "Florenta 1647",
+      "oras": "Florența 1647",
       "tara": "Italia",
       "zile": 10,
       "vizitat": true
@@ -11538,7 +11538,7 @@
     },
     {
       "id": "1649",
-      "oras": "Venetia 1649",
+      "oras": "Veneția 1649",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -11587,7 +11587,7 @@
     },
     {
       "id": "1656",
-      "oras": "Braşov 1656",
+      "oras": "Brașov 1656",
       "tara": "România",
       "zile": 5,
       "vizitat": true
@@ -11601,14 +11601,14 @@
     },
     {
       "id": "1658",
-      "oras": "Iaşi 1658",
+      "oras": "Iași 1658",
       "tara": "România",
       "zile": 7,
       "vizitat": false
     },
     {
       "id": "1659",
-      "oras": "Timişoara 1659",
+      "oras": "Timișoara 1659",
       "tara": "România",
       "zile": 8,
       "vizitat": true
@@ -11699,7 +11699,7 @@
     },
     {
       "id": "1672",
-      "oras": "Florenta 1672",
+      "oras": "Florența 1672",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -11713,7 +11713,7 @@
     },
     {
       "id": "1674",
-      "oras": "Venetia 1674",
+      "oras": "Veneția 1674",
       "tara": "Italia",
       "zile": 9,
       "vizitat": true
@@ -11762,7 +11762,7 @@
     },
     {
       "id": "1681",
-      "oras": "Braşov 1681",
+      "oras": "Brașov 1681",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -11776,14 +11776,14 @@
     },
     {
       "id": "1683",
-      "oras": "Iaşi 1683",
+      "oras": "Iași 1683",
       "tara": "România",
       "zile": 4,
       "vizitat": true
     },
     {
       "id": "1684",
-      "oras": "Timişoara 1684",
+      "oras": "Timișoara 1684",
       "tara": "România",
       "zile": 5,
       "vizitat": false
@@ -11874,7 +11874,7 @@
     },
     {
       "id": "1697",
-      "oras": "Florenta 1697",
+      "oras": "Florența 1697",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -11888,7 +11888,7 @@
     },
     {
       "id": "1699",
-      "oras": "Venetia 1699",
+      "oras": "Veneția 1699",
       "tara": "Italia",
       "zile": 6,
       "vizitat": false
@@ -11937,7 +11937,7 @@
     },
     {
       "id": "1706",
-      "oras": "Braşov 1706",
+      "oras": "Brașov 1706",
       "tara": "România",
       "zile": 13,
       "vizitat": false
@@ -11951,14 +11951,14 @@
     },
     {
       "id": "1708",
-      "oras": "Iaşi 1708",
+      "oras": "Iași 1708",
       "tara": "România",
       "zile": 1,
       "vizitat": false
     },
     {
       "id": "1709",
-      "oras": "Timişoara 1709",
+      "oras": "Timișoara 1709",
       "tara": "România",
       "zile": 2,
       "vizitat": false
@@ -12049,7 +12049,7 @@
     },
     {
       "id": "1722",
-      "oras": "Florenta 1722",
+      "oras": "Florența 1722",
       "tara": "Italia",
       "zile": 1,
       "vizitat": true
@@ -12063,7 +12063,7 @@
     },
     {
       "id": "1724",
-      "oras": "Venetia 1724",
+      "oras": "Veneția 1724",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -12112,7 +12112,7 @@
     },
     {
       "id": "1731",
-      "oras": "Braşov 1731",
+      "oras": "Brașov 1731",
       "tara": "România",
       "zile": 10,
       "vizitat": true
@@ -12126,14 +12126,14 @@
     },
     {
       "id": "1733",
-      "oras": "Iaşi 1733",
+      "oras": "Iași 1733",
       "tara": "România",
       "zile": 12,
       "vizitat": false
     },
     {
       "id": "1734",
-      "oras": "Timişoara 1734",
+      "oras": "Timișoara 1734",
       "tara": "România",
       "zile": 13,
       "vizitat": true
@@ -12224,7 +12224,7 @@
     },
     {
       "id": "1747",
-      "oras": "Florenta 1747",
+      "oras": "Florența 1747",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -12238,7 +12238,7 @@
     },
     {
       "id": "1749",
-      "oras": "Venetia 1749",
+      "oras": "Veneția 1749",
       "tara": "Italia",
       "zile": 14,
       "vizitat": true
@@ -12287,7 +12287,7 @@
     },
     {
       "id": "1756",
-      "oras": "Braşov 1756",
+      "oras": "Brașov 1756",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -12301,14 +12301,14 @@
     },
     {
       "id": "1758",
-      "oras": "Iaşi 1758",
+      "oras": "Iași 1758",
       "tara": "România",
       "zile": 9,
       "vizitat": true
     },
     {
       "id": "1759",
-      "oras": "Timişoara 1759",
+      "oras": "Timișoara 1759",
       "tara": "România",
       "zile": 10,
       "vizitat": false
@@ -12399,7 +12399,7 @@
     },
     {
       "id": "1772",
-      "oras": "Florenta 1772",
+      "oras": "Florența 1772",
       "tara": "Italia",
       "zile": 9,
       "vizitat": false
@@ -12413,7 +12413,7 @@
     },
     {
       "id": "1774",
-      "oras": "Venetia 1774",
+      "oras": "Veneția 1774",
       "tara": "Italia",
       "zile": 11,
       "vizitat": false
@@ -12462,7 +12462,7 @@
     },
     {
       "id": "1781",
-      "oras": "Braşov 1781",
+      "oras": "Brașov 1781",
       "tara": "România",
       "zile": 4,
       "vizitat": false
@@ -12476,14 +12476,14 @@
     },
     {
       "id": "1783",
-      "oras": "Iaşi 1783",
+      "oras": "Iași 1783",
       "tara": "România",
       "zile": 6,
       "vizitat": false
     },
     {
       "id": "1784",
-      "oras": "Timişoara 1784",
+      "oras": "Timișoara 1784",
       "tara": "România",
       "zile": 7,
       "vizitat": false
@@ -12574,7 +12574,7 @@
     },
     {
       "id": "1797",
-      "oras": "Florenta 1797",
+      "oras": "Florența 1797",
       "tara": "Italia",
       "zile": 6,
       "vizitat": true
@@ -12588,7 +12588,7 @@
     },
     {
       "id": "1799",
-      "oras": "Venetia 1799",
+      "oras": "Veneția 1799",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -12637,7 +12637,7 @@
     },
     {
       "id": "1806",
-      "oras": "Braşov 1806",
+      "oras": "Brașov 1806",
       "tara": "România",
       "zile": 1,
       "vizitat": true
@@ -12651,14 +12651,14 @@
     },
     {
       "id": "1808",
-      "oras": "Iaşi 1808",
+      "oras": "Iași 1808",
       "tara": "România",
       "zile": 3,
       "vizitat": false
     },
     {
       "id": "1809",
-      "oras": "Timişoara 1809",
+      "oras": "Timișoara 1809",
       "tara": "România",
       "zile": 4,
       "vizitat": true
@@ -12749,7 +12749,7 @@
     },
     {
       "id": "1822",
-      "oras": "Florenta 1822",
+      "oras": "Florența 1822",
       "tara": "Italia",
       "zile": 3,
       "vizitat": false
@@ -12763,7 +12763,7 @@
     },
     {
       "id": "1824",
-      "oras": "Venetia 1824",
+      "oras": "Veneția 1824",
       "tara": "Italia",
       "zile": 5,
       "vizitat": true
@@ -12812,7 +12812,7 @@
     },
     {
       "id": "1831",
-      "oras": "Braşov 1831",
+      "oras": "Brașov 1831",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -12826,14 +12826,14 @@
     },
     {
       "id": "1833",
-      "oras": "Iaşi 1833",
+      "oras": "Iași 1833",
       "tara": "România",
       "zile": 14,
       "vizitat": true
     },
     {
       "id": "1834",
-      "oras": "Timişoara 1834",
+      "oras": "Timișoara 1834",
       "tara": "România",
       "zile": 1,
       "vizitat": false
@@ -12924,7 +12924,7 @@
     },
     {
       "id": "1847",
-      "oras": "Florenta 1847",
+      "oras": "Florența 1847",
       "tara": "Italia",
       "zile": 14,
       "vizitat": false
@@ -12938,7 +12938,7 @@
     },
     {
       "id": "1849",
-      "oras": "Venetia 1849",
+      "oras": "Veneția 1849",
       "tara": "Italia",
       "zile": 2,
       "vizitat": false
@@ -12987,7 +12987,7 @@
     },
     {
       "id": "1856",
-      "oras": "Braşov 1856",
+      "oras": "Brașov 1856",
       "tara": "România",
       "zile": 9,
       "vizitat": false
@@ -13001,14 +13001,14 @@
     },
     {
       "id": "1858",
-      "oras": "Iaşi 1858",
+      "oras": "Iași 1858",
       "tara": "România",
       "zile": 11,
       "vizitat": false
     },
     {
       "id": "1859",
-      "oras": "Timişoara 1859",
+      "oras": "Timișoara 1859",
       "tara": "România",
       "zile": 12,
       "vizitat": false
@@ -13099,7 +13099,7 @@
     },
     {
       "id": "1872",
-      "oras": "Florenta 1872",
+      "oras": "Florența 1872",
       "tara": "Italia",
       "zile": 11,
       "vizitat": true
@@ -13113,7 +13113,7 @@
     },
     {
       "id": "1874",
-      "oras": "Venetia 1874",
+      "oras": "Veneția 1874",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -13162,7 +13162,7 @@
     },
     {
       "id": "1881",
-      "oras": "Braşov 1881",
+      "oras": "Brașov 1881",
       "tara": "România",
       "zile": 6,
       "vizitat": true
@@ -13176,14 +13176,14 @@
     },
     {
       "id": "1883",
-      "oras": "Iaşi 1883",
+      "oras": "Iași 1883",
       "tara": "România",
       "zile": 8,
       "vizitat": false
     },
     {
       "id": "1884",
-      "oras": "Timişoara 1884",
+      "oras": "Timișoara 1884",
       "tara": "România",
       "zile": 9,
       "vizitat": true
@@ -13274,7 +13274,7 @@
     },
     {
       "id": "1897",
-      "oras": "Florenta 1897",
+      "oras": "Florența 1897",
       "tara": "Italia",
       "zile": 8,
       "vizitat": false
@@ -13288,7 +13288,7 @@
     },
     {
       "id": "1899",
-      "oras": "Venetia 1899",
+      "oras": "Veneția 1899",
       "tara": "Italia",
       "zile": 10,
       "vizitat": true
@@ -13337,7 +13337,7 @@
     },
     {
       "id": "1906",
-      "oras": "Braşov 1906",
+      "oras": "Brașov 1906",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -13351,14 +13351,14 @@
     },
     {
       "id": "1908",
-      "oras": "Iaşi 1908",
+      "oras": "Iași 1908",
       "tara": "România",
       "zile": 5,
       "vizitat": true
     },
     {
       "id": "1909",
-      "oras": "Timişoara 1909",
+      "oras": "Timișoara 1909",
       "tara": "România",
       "zile": 6,
       "vizitat": false
@@ -13449,7 +13449,7 @@
     },
     {
       "id": "1922",
-      "oras": "Florenta 1922",
+      "oras": "Florența 1922",
       "tara": "Italia",
       "zile": 5,
       "vizitat": false
@@ -13463,7 +13463,7 @@
     },
     {
       "id": "1924",
-      "oras": "Venetia 1924",
+      "oras": "Veneția 1924",
       "tara": "Italia",
       "zile": 7,
       "vizitat": false
@@ -13512,7 +13512,7 @@
     },
     {
       "id": "1931",
-      "oras": "Braşov 1931",
+      "oras": "Brașov 1931",
       "tara": "România",
       "zile": 14,
       "vizitat": false
@@ -13526,14 +13526,14 @@
     },
     {
       "id": "1933",
-      "oras": "Iaşi 1933",
+      "oras": "Iași 1933",
       "tara": "România",
       "zile": 2,
       "vizitat": false
     },
     {
       "id": "1934",
-      "oras": "Timişoara 1934",
+      "oras": "Timișoara 1934",
       "tara": "România",
       "zile": 3,
       "vizitat": false
@@ -13624,7 +13624,7 @@
     },
     {
       "id": "1947",
-      "oras": "Florenta 1947",
+      "oras": "Florența 1947",
       "tara": "Italia",
       "zile": 2,
       "vizitat": true
@@ -13638,7 +13638,7 @@
     },
     {
       "id": "1949",
-      "oras": "Venetia 1949",
+      "oras": "Veneția 1949",
       "tara": "Italia",
       "zile": 4,
       "vizitat": false
@@ -13687,7 +13687,7 @@
     },
     {
       "id": "1956",
-      "oras": "Braşov 1956",
+      "oras": "Brașov 1956",
       "tara": "România",
       "zile": 11,
       "vizitat": true
@@ -13701,14 +13701,14 @@
     },
     {
       "id": "1958",
-      "oras": "Iaşi 1958",
+      "oras": "Iași 1958",
       "tara": "România",
       "zile": 13,
       "vizitat": false
     },
     {
       "id": "1959",
-      "oras": "Timişoara 1959",
+      "oras": "Timișoara 1959",
       "tara": "România",
       "zile": 14,
       "vizitat": true
@@ -13799,7 +13799,7 @@
     },
     {
       "id": "1972",
-      "oras": "Florenta 1972",
+      "oras": "Florența 1972",
       "tara": "Italia",
       "zile": 13,
       "vizitat": false
@@ -13813,7 +13813,7 @@
     },
     {
       "id": "1974",
-      "oras": "Venetia 1974",
+      "oras": "Veneția 1974",
       "tara": "Italia",
       "zile": 1,
       "vizitat": true
@@ -13862,7 +13862,7 @@
     },
     {
       "id": "1981",
-      "oras": "Braşov 1981",
+      "oras": "Brașov 1981",
       "tara": "România",
       "zile": 8,
       "vizitat": false
@@ -13876,14 +13876,14 @@
     },
     {
       "id": "1983",
-      "oras": "Iaşi 1983",
+      "oras": "Iași 1983",
       "tara": "România",
       "zile": 10,
       "vizitat": true
     },
     {
       "id": "1984",
-      "oras": "Timişoara 1984",
+      "oras": "Timișoara 1984",
       "tara": "România",
       "zile": 11,
       "vizitat": false
@@ -13974,7 +13974,7 @@
     },
     {
       "id": "1997",
-      "oras": "Florenta 1997",
+      "oras": "Florența 1997",
       "tara": "Italia",
       "zile": 10,
       "vizitat": false
@@ -13988,7 +13988,7 @@
     },
     {
       "id": "1999",
-      "oras": "Venetia 1999",
+      "oras": "Veneția 1999",
       "tara": "Italia",
       "zile": 12,
       "vizitat": false
@@ -14000,6 +14000,5 @@
       "zile": 13,
       "vizitat": false
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }

@@ -1,22 +1,30 @@
 import { useState } from 'react'
 
+const VALORI_GOALE = { oras: '', tara: '', zile: '' }
+
+// Ex. 2b: returns { field: message } for each invalid field; {} means valid
 function valideaza(valori) {
   const erori = {}
+
   if (valori.oras.trim().length < 2) {
     erori.oras = 'Orașul are cel puțin două caractere.'
   }
+
   if (valori.tara.trim() === '') {
     erori.tara = 'Țara este obligatorie.'
   }
-  const numarZile = Number(valori.zile)
-  if (valori.zile === '' || Number.isNaN(numarZile) || numarZile < 1 || numarZile > 30) {
+
+  const zile = Number(valori.zile)
+  if (valori.zile === '' || !Number.isInteger(zile) || zile < 1 || zile > 30) {
     erori.zile = 'Numărul de zile este între 1 și 30.'
   }
+
   return erori
 }
 
 export default function FormularDestinatie({ onAdd, seTrimite }) {
-  const [valori, setValori] = useState({ oras: '', tara: '', zile: '' })
+  // Ex. 2a: one state object, one onChange keyed by the input's name
+  const [valori, setValori] = useState(VALORI_GOALE)
   const [erori, setErori] = useState({})
 
   function handleChange(event) {
@@ -26,22 +34,23 @@ export default function FormularDestinatie({ onAdd, seTrimite }) {
 
   async function handleSubmit(event) {
     event.preventDefault()
-    const eroriGasite = valideaza(valori)
-    setErori(eroriGasite)
 
-    if (Object.keys(eroriGasite).length > 0) {
+    const gasite = valideaza(valori)
+    setErori(gasite)
+    if (Object.keys(gasite).length > 0) {
       return
     }
 
-    await onAdd({
+    const ok = await onAdd({
       oras: valori.oras.trim(),
       tara: valori.tara.trim(),
       zile: Number(valori.zile),
       vizitat: false,
     })
 
-    setValori({ oras: '', tara: '', zile: '' })
-    setErori({})
+    if (ok) {
+      setValori(VALORI_GOALE)
+    }
   }
 
   return (
@@ -70,8 +79,8 @@ export default function FormularDestinatie({ onAdd, seTrimite }) {
 
       <div className="camp">
         <input
-          type="number"
           name="zile"
+          type="number"
           placeholder="Zile"
           value={valori.zile}
           onChange={handleChange}
