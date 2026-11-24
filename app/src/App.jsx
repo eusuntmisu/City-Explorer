@@ -5,6 +5,7 @@ import ListaDestinatii from './components/ListaDestinatii.jsx'
 import FormularDestinatie from './components/FormularDestinatie.jsx'
 import Rezumat from './components/Rezumat.jsx'
 import Cautare from './components/Cautare.jsx'
+import PanouStatistici from './components/PanouStatistici.jsx'
 import './App.css'
 
 export default function App() {
@@ -106,6 +107,7 @@ export default function App() {
       />
       <FormularDestinatie onAdd={handleAdd} seTrimite={seTrimite} />
       <Cautare valoare={cautare} onChange={setCautare} />
+      <PanouStatistici />
       {continut}
     </main>
   )

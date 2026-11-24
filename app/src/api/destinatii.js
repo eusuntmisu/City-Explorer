@@ -1,5 +1,5 @@
 // Ex. 1a: request module. One function per endpoint; every one checks response.ok.
-const API_URL = 'http://localhost:3001'
+const API_URL = 'http://localhost:3000/api'
 
 export async function getDestinatii() {
   const response = await fetch(`${API_URL}/destinatii`)
